@@ -24,7 +24,7 @@ Depois só executar script que tudo vai no automático:
 
     python3 portscanner.py
 
-[!](Portscanner.png)
+![Referência](Portscanner.png)
 
 ## Autor
 
