@@ -34,4 +34,4 @@ Depois só executar script que tudo vai no automático:
 
 ## Licença
 
-Projeto está na [licença MIT](LICENSE.md).
+Projeto está sob a [licença MIT](LICENSE).
